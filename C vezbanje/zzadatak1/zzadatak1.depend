@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680717016 source:c:\users\korisnik\desktop\c vezbanje\c vezbanje\zzadatak1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
